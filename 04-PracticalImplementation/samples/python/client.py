@@ -3,7 +3,7 @@
 Clean MCP Client Example.
 
 This is a clean implementation of an MCP client that demonstrates
-all capabilities of the MCP protocol with proper error handling.
+all capabilities of the MCP protocol with proper error handling. cloned 09-27-2025
 """
 
 import asyncio
